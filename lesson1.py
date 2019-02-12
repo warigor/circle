@@ -12,3 +12,5 @@ elif 10 <= age <=30:
 else:
     print("Good day")
 
+while (True):
+    break
